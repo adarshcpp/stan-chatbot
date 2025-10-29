@@ -119,5 +119,4 @@ stan-chatbot/
 ## 📜 Author
 
 Developed for the **STAN Internship Challenge (Round 1)**  
-by **Adarsh Kumar** — *NIT Jamshedpur*  
-You may reuse or extend it with credit.
+by **Adarsh Kumar** — *NIT Jamshedpur*
